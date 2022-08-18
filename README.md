@@ -1,7 +1,7 @@
 ![MasterHead](https://share.creavite.co/hpm6RSbDiY265Ms0.gif)
 <h1 align="center">Witaj Jestem Panciasio</h1>
 <h3 align="center">Cześć! Jestem Krystian. Zajmuje się najczęściej programowanie w C# (unity) tworze swoja grę od około 2 lat.</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/6e/a8/c6/6ea8c68dfa924bc2e6a9abe3e473087a.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panciasiodev&label=Profile%20views&color=0e75b6&style=flat" alt="panciasiodev" /> </p>
