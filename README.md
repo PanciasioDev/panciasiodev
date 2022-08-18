@@ -1,4 +1,4 @@
-[![MasterHead](https://share.creavite.co/hpm6RSbDiY265Ms0.gif)
+![MasterHead](https://share.creavite.co/hpm6RSbDiY265Ms0.gif)
 <h1 align="center">Witaj Jestem Panciasio</h1>
 <h3 align="center">Cześć! Jestem Krystian. Zajmuje się najczęściej programowanie w C# (unity) tworze swoja grę od około 2 lat.</h3>
 (img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6")
